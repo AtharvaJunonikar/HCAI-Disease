@@ -5,6 +5,10 @@ import json
 import os
 import sqlite3
 import uuid
+
+from huggingface_hub import login
+login(token="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")
+
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, AutoModelForCausalLM, pipeline
 
 # ----------------------------------------
