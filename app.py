@@ -6,7 +6,7 @@ import os
 import sqlite3
 import uuid
 
-huggingface cli login
+huggingface-cli login
 
 from huggingface_hub import login
 login(token="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")
