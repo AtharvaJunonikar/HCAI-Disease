@@ -3,9 +3,5 @@ torch
 transformers
 streamlit
 pandas
-=======
-torch
-transformers
-streamlit
-pandas
+
 
